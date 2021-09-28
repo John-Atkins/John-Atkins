@@ -1,0 +1,3 @@
+- Hi, I’m @John-Atkins
+- I am a UBC Manufacturing Engineering Student.
+- I am new to github.
