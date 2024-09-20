@@ -1,10 +1,7 @@
 - Hi, I’m @John-Atkins
-- I am a UBC Manufacturing Engineering Student.
-- I am new to github.
-- I am using this file to practice my command line skills.
+- I am a UBC MECH MASc Student.
 
-
-# - Basic Notes - 
+# - Random Notes - 
 
 ### Different Ways to Inspect The Changes Made to Files
 - git diff --> <u> specific changes on the files. </u>
